@@ -3,7 +3,7 @@
 The user send in an array representing an unsolved Sudoku
 puzzle and they would get responds with the solved puzzle.
 
-## Problems statement
+## Problem statement
 
 The goal of sudoku is to fill in a 9x9 grid with digits so that each column, row, and 3x3 section
 contain the numbers between 1 to 9. At the beginning of the game,
