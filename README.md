@@ -3,6 +3,19 @@
 The user send in an array representing an unsolved Sudoku
 puzzle and they would get responds with the solved puzzle.
 
+## Problems statement
+
+The goal of sudoku is to fill in a 9x9 grid with digits so that each column, row, and 3x3 section
+contain the numbers between 1 to 9. At the beginning of the game,
+9x9 grid will have some of the squares filled in. Use logic to fill in the
+missing digits and complete the grid.
+
+Constraints:
+- Any row cannot contain more than one of the same number from 1 to 9
+- Any column cannot contain more than one of the same number from 1 to 9
+- Any 3x3 grid cannot contain more than one of the same number from 1 to 9
+
+
 
 ## API use for below functions
 - User can send the unsolved sudoku puzzle
