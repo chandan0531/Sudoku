@@ -29,5 +29,6 @@ puzzle and they would get responds with the solved puzzle.
 Takes unsolved sudoku puzzle (2D Array1) and returns solved sudoku puzzle (2D Array2).
 
 ## Running Tests
-Run the following command on post man
-![postman](https://user-images.githubusercontent.com/101566029/185036837-17caf0e0-94c6-4280-8719-20d52e2570c3.png)
+Run the following command on postman
+<img width="962" alt="Postman" src="https://user-images.githubusercontent.com/101566029/202842588-218467d1-62d1-401f-840d-389758559d9d.png">
+
